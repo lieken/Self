@@ -1602,7 +1602,7 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "SimHei", Arial, Helvetica, sans-serif;
+		font-family: "Raleway", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 400;
 		line-height: 2em;
@@ -2565,10 +2565,9 @@
 	}
 
 	header h2 + p {
-		font-size: 2em;
+		font-size: 1.25em;
 		margin-top: -1em;
 		line-height: 1.5em;
-		font-family: Microsoft YaHei;
 	}
 
 	header h3 + p {
@@ -3105,16 +3104,14 @@
 		#banner h2 {
 			color: #ffffff;
 			display: inline-block;
-			font-family: Microsoft JhengHei ;
-			font-size: 5em;
-			line-height: 1;
+			font-size: 3.5em;
+			line-height: 1.35;
 			margin-bottom: 0.5em;
 		}
 
 		#banner p {
-			color: #CCFFFF;
+			color: #aaa;
 			font-size: 1.5em;
-			font-family: Microsoft JhengHei ;
 			margin-bottom: 1.75em;
 			text-transform: uppercase;
 		}
