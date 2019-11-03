@@ -4,6 +4,14 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+/*導覽按鈕頁面轉動*/
+$(document).ready(function(){
+	$(function(){ $('#bann').click(function(){ 
+		$('html,body').animate({scrollTop:$('#one').offset().top}, 500);});  
+	}); 
+});  	
+
+
 (function($) {
 
 	skel.breakpoints({
